@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.ssas-cache
+
+.codio
+startup.sh
